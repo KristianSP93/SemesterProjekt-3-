@@ -1,0 +1,5 @@
+C:\Users\Bjørn\Desktop\SemesterProjekt 3\DAQ\bin\Debug\DAQ.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt 3\DAQ\bin\Debug\DAQ.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt 3\DAQ\obj\Debug\DAQ.csprojResolveAssemblyReference.cache
+C:\Users\Bjørn\Desktop\SemesterProjekt 3\DAQ\obj\Debug\DAQ.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt 3\DAQ\obj\Debug\DAQ.pdb
