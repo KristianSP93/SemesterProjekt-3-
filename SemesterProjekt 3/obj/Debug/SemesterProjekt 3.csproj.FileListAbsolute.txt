@@ -30,3 +30,6 @@ C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode
 C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode Projekt\SemesterProjekt 3\SemesterProjekt 3\bin\Debug\Interfaces.pdb
 C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode Projekt\SemesterProjekt 3\SemesterProjekt 3\bin\Debug\PresentationLayer.pdb
 C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode Projekt\SemesterProjekt 3\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.csprojResolveAssemblyReference.cache
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb

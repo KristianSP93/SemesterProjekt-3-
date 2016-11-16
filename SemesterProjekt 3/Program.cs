@@ -13,8 +13,14 @@ namespace Semesterprojekt_3
     class Program
     {
         //GutHUb Test
+<<<<<<< HEAD
         //Bjørn test
         // testets
+=======
+        //Bjørn test+lo
+
+            //ll
+>>>>>>> origin/master
         private PresentationLayer.ControlPresentationLayer currentSFPUI;
         private BusinessLayer.ControlBusinessLogic currentBL;
         private DataLayer.ControlDataLogic currentDL;
