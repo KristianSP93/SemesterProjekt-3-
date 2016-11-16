@@ -12,6 +12,7 @@ namespace Semesterprojekt_3
 {
     class Program
     {
+        //GutHUb Test
         private PresentationLayer.ControlPresentationLayer currentSFPUI;
         private BusinessLayer.ControlBusinessLogic currentBL;
         private DataLayer.ControlDataLogic currentDL;
