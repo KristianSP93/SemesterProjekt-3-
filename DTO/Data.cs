@@ -9,7 +9,7 @@ namespace DTO
     public class Data
     {
 
-
+        public List<Double> FalskBlodtryk { get; set; }
         public double AFTryk { get; set; }
 
 

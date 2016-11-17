@@ -5,3 +5,10 @@ C:\Users\Bjørn\Desktop\SemesterProjekt 3\Interfaces\bin\Debug\DTO.pdb
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\bin\Debug\DTO.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\Interfaces\obj\Debug\Interfaces.pdb

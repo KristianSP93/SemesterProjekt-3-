@@ -33,3 +33,18 @@ C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\BusinessLayer.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DataLayer.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DTO.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\Interfaces.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\PresentationLayer.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DAQ.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\BusinessLayer.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DataLayer.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DTO.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\Interfaces.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\PresentationLayer.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DAQ.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.csprojResolveAssemblyReference.cache
