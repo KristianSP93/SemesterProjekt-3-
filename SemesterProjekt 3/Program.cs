@@ -13,7 +13,8 @@ namespace Semesterprojekt_3
     class Program
     {
         //GutHUb Test
-<<<<<<< HEAD
+        //TEST
+
         //Bjørn test
         // testets
 =======
