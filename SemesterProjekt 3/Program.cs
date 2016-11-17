@@ -17,11 +17,9 @@ namespace Semesterprojekt_3
 
         //Bjørn test
         // testets
-=======
         //Bjørn test+lo
 
             //ll
->>>>>>> origin/master
         private PresentationLayer.ControlPresentationLayer currentSFPUI;
         private BusinessLayer.ControlBusinessLogic currentBL;
         private DataLayer.ControlDataLogic currentDL;
