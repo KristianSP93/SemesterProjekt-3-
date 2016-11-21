@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace DAQ
 {
-    public class DAQData
+    public class DAQClass
     {
-        public List<Double> Blodtryk()
+        public DAQClass()
+        {
+
+        }
+
+
+        public void Blodtryk()
         {
             Random r = new Random();
             List<double> Liste = new List<double>();
@@ -20,8 +26,8 @@ namespace DAQ
                 Liste.Add(random);
                 //Console.WriteLine(Liste[counter]);
                 counter++;
+                System.Threading.Thread.Sleep(500);
             }
-            return Liste;
         }
     }
 }

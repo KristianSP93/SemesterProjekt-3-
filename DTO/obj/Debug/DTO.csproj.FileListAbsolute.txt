@@ -3,3 +3,8 @@ C:\Users\Bjørn\Desktop\SemesterProjekt 3\DTO\bin\Debug\DTO.pdb
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\DTO\obj\Debug\DTO.dll
 C:\Users\Bjørn\Desktop\SemesterProjekt 3\DTO\obj\Debug\DTO.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\DTO\bin\Debug\DTO.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\DTO\bin\Debug\DTO.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\DTO\obj\Debug\DTO.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\DTO\obj\Debug\DTO.pdb
