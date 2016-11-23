@@ -15,7 +15,7 @@ namespace Semesterprojekt_3
         //GutHUb Test
         //TEST
 
-        //Bjørn test
+        //Bjørn test dårligt
         // testets
         //Bjørn test+lo
 

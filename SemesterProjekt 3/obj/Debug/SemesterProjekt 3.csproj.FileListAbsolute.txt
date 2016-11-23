@@ -33,3 +33,6 @@ C:\Users\kristian\Desktop\Sundhedsteknologi\3. Semester\3. Semester projekt\Kode
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
+C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
+C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
+C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
