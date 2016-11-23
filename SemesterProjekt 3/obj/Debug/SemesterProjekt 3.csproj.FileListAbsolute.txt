@@ -36,3 +36,6 @@ C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterP
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
