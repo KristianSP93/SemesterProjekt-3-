@@ -38,6 +38,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -56,9 +57,18 @@
     <Compile Include="HovedGUI.Designer.cs">
       <DependentUpon>HovedGUI.cs</DependentUpon>
     </Compile>
+    <Compile Include="Kalibreringsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kalibreringsform.Designer.cs">
+      <DependentUpon>Kalibreringsform.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="HovedGUI.resx">
       <DependentUpon>HovedGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kalibreringsform.resx">
+      <DependentUpon>Kalibreringsform.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
