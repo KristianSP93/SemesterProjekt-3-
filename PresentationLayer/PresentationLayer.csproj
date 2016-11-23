@@ -51,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControlPresentationLayer.cs" />
+    <Compile Include="FormSendTilDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSendTilDB.Designer.cs">
+      <DependentUpon>FormSendTilDB.cs</DependentUpon>
+    </Compile>
     <Compile Include="HovedGUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
       <DependentUpon>Kalibreringsform.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormSendTilDB.resx">
+      <DependentUpon>FormSendTilDB.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="HovedGUI.resx">
       <DependentUpon>HovedGUI.cs</DependentUpon>
     </EmbeddedResource>
