@@ -36,6 +36,7 @@ C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterP
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
 C:\Users\IdaSofie\Desktop\Uni\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
+<<<<<<< HEAD
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.pdb
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\BusinessLayer.dll
@@ -51,3 +52,8 @@ C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\Presentat
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.csprojResolveAssemblyReference.cache
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DAQ.dll
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\DAQ.pdb
+=======
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\bin\Debug\SemesterProjekt 3.exe.config
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.exe
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\SemesterProjekt 3\obj\Debug\SemesterProjekt 3.pdb
+>>>>>>> origin/master
