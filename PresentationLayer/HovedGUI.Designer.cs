@@ -28,50 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(571, 180);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(86, 35);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Hent";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(485, 186);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(80, 22);
-            this.textBox1.TabIndex = 1;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
-            // HovedGUI
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(856, 433);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
@@ -79,7 +49,6 @@
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -91,6 +60,24 @@
             ((System.ComponentModel.ISupportInitialize)(this.chart2)).BeginInit();
             this.SuspendLayout();
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(28, 87);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(151, 37);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Indlæs blodtryk";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(243, 45);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.TabIndex = 6;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
@@ -101,7 +88,7 @@
             "Manuelt"});
             this.comboBox1.Location = new System.Drawing.Point(28, 45);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(151, 28);
+            this.comboBox1.Size = new System.Drawing.Size(151, 21);
             this.comboBox1.TabIndex = 0;
             // 
             // label1
@@ -109,7 +96,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(24, 22);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(97, 20);
+            this.label1.Size = new System.Drawing.Size(75, 15);
             this.label1.TabIndex = 1;
             this.label1.Text = "Patientprofil:";
             // 
@@ -118,7 +105,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(239, 22);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 20);
+            this.label2.Size = new System.Drawing.Size(57, 15);
             this.label2.TabIndex = 2;
             this.label2.Text = "Min. sys.:";
             // 
@@ -127,7 +114,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(380, 21);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(77, 20);
+            this.label3.Size = new System.Drawing.Size(60, 15);
             this.label3.TabIndex = 3;
             this.label3.Text = "Max. sys.:";
             // 
@@ -136,7 +123,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(513, 21);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 20);
+            this.label4.Size = new System.Drawing.Size(57, 15);
             this.label4.TabIndex = 4;
             this.label4.Text = "Min. dia.:";
             // 
@@ -145,36 +132,29 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(651, 21);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(75, 20);
+            this.label5.Size = new System.Drawing.Size(60, 15);
             this.label5.TabIndex = 5;
             this.label5.Text = "Max. dia.:";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(243, 45);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 26);
-            this.textBox1.TabIndex = 6;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(381, 45);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 26);
+            this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 7;
             // 
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(517, 45);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 26);
+            this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 8;
             // 
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(655, 45);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 26);
+            this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 9;
             // 
             // chart1
@@ -218,7 +198,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(789, 130);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(63, 20);
+            this.label6.Size = new System.Drawing.Size(48, 15);
             this.label6.TabIndex = 12;
             this.label6.Text = "Sys/Dia";
             // 
@@ -227,18 +207,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(789, 303);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(39, 20);
+            this.label7.Size = new System.Drawing.Size(31, 15);
             this.label7.TabIndex = 13;
             this.label7.Text = "Puls";
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(28, 87);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(151, 37);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "Indlæs blodtryk";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -248,6 +219,7 @@
             this.button2.TabIndex = 15;
             this.button2.Text = "Kalibrering";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -309,7 +281,7 @@
             // 
             // HovedGUI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(963, 542);
             this.Controls.Add(this.checkBox4);
@@ -335,7 +307,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-
             this.Name = "HovedGUI";
             this.Text = "HovedGUI";
             this.Load += new System.EventHandler(this.HovedGUI_Load);
@@ -358,7 +329,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox1;
+        //private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
@@ -366,7 +337,7 @@
         private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button button1;
+        //private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
