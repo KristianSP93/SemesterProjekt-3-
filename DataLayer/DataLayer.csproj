@@ -41,7 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControlDataLogic.cs" />
+<<<<<<< HEAD
     <Compile Include="DAQData.cs" />
+=======
+    <Compile Include="GemIDB.cs" />
+    <Compile Include="MåleVærdi.cs" />
+>>>>>>> origin/master
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

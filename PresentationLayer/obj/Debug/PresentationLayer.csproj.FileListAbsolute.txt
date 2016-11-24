@@ -28,5 +28,33 @@ C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\Presentat
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.dll
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.pdb
+<<<<<<< HEAD
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.FormSendTilDB.resources
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.Kalibreringsform.resources
+=======
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.dll
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\PresentationLayer.dll.config
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\PresentationLayer.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DTO.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\Interfaces.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DTO.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\Interfaces.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.pdb
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.FormSendTilDB.resources
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.HovedGUI.resources
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.Kalibreringsform.resources
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Charlotte Thuy Tran\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.pdb
+>>>>>>> origin/master
