@@ -8,20 +8,19 @@ namespace DAQ
 {
     public class DAQData
     {
+
         public List<Double> Blodtryk()
         {
             Random r = new Random();
             List<double> Liste = new List<double>();
-            int counter = 0;
 
-            while (!Console.KeyAvailable)
+            for (int i = 0; i < 500; i++)
             {
-                double random = r.Next(0, 10000);
+                double random = r.Next(0, 100);
                 Liste.Add(random);
-                //Console.WriteLine(Liste[counter]);
-                counter++;
             }
             return Liste;
         }
+
     }
 }

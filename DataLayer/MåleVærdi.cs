@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DTO;
-using Interfaces;
-
+using DAQ;
 
 namespace DataLayer
 {
-    public class ControlDataLogic : DL
+    class MåleVærdi
     {
 
 
