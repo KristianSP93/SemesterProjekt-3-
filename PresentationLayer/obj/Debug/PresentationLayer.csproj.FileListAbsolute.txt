@@ -28,7 +28,5 @@ C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\Presentat
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.dll
 C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.pdb
-C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.dll
-C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.dll
-C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DataLayer.pdb
-C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\bin\Debug\DAQ.pdb
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.FormSendTilDB.resources
+C:\Users\Bjørn\Desktop\SemesterProjekt-3-\PresentationLayer\obj\Debug\PresentationLayer.Kalibreringsform.resources

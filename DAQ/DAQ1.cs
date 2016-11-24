@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAQ
 {
-    public class DAQData
+    public class DAQ1
     {
 
         public List<Double> Blodtryk()

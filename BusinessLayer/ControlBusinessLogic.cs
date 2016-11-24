@@ -14,8 +14,7 @@ namespace BusinessLayer
     {
         private DL currentDal;
 
-        public ControlDataLogic currentDL = new ControlDataLogic();
-        public Data currentDTO = new Data();
+        Data currentDTO = new Data();
 
 
         public ControlBusinessLogic(DL myDL)
@@ -23,6 +22,12 @@ namespace BusinessLayer
             currentDal = myDL;
         }
 
+
+        public Data CBIndlæsBlodtryk()
+        {
+            currentDTO.BlodtrykList = currentDal.CDIndlæsBlodtryk();
+            return currentDTO;
+        }
 
 
 

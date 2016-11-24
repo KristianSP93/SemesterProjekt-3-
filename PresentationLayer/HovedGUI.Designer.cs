@@ -68,7 +68,7 @@
             this.button1.TabIndex = 14;
             this.button1.Text = "Indlæs blodtryk";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.CPIndlæsBlodtryk_BT_Click);
             // 
             // textBox1
             // 
@@ -244,7 +244,7 @@
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(243, 87);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(65, 24);
+            this.checkBox1.Size = new System.Drawing.Size(53, 19);
             this.checkBox1.TabIndex = 18;
             this.checkBox1.Text = "Puls";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -254,7 +254,7 @@
             this.checkBox2.AutoSize = true;
             this.checkBox2.Location = new System.Drawing.Point(381, 87);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(89, 24);
+            this.checkBox2.Size = new System.Drawing.Size(70, 19);
             this.checkBox2.TabIndex = 19;
             this.checkBox2.Text = "Sys/Dia";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -264,7 +264,7 @@
             this.checkBox3.AutoSize = true;
             this.checkBox3.Location = new System.Drawing.Point(517, 87);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(113, 24);
+            this.checkBox3.Size = new System.Drawing.Size(90, 19);
             this.checkBox3.TabIndex = 20;
             this.checkBox3.Text = "Digital filter";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -274,7 +274,7 @@
             this.checkBox4.AutoSize = true;
             this.checkBox4.Location = new System.Drawing.Point(655, 87);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(76, 24);
+            this.checkBox4.Size = new System.Drawing.Size(61, 19);
             this.checkBox4.TabIndex = 21;
             this.checkBox4.Text = "Alarm";
             this.checkBox4.UseVisualStyleBackColor = true;

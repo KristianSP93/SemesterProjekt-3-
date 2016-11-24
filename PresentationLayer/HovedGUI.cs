@@ -24,6 +24,14 @@ namespace PresentationLayer
             InitializeComponent();
         }
 
+        private void CPIndlæsBlodtryk_BT_Click(object sender, EventArgs e)
+        {
+           CurrentDTO = currentBL.CBIndlæsBlodtryk();
+            int x = 0;
+            List<double> Voresliste = CurrentDTO.BlodtrykList;
+            chart1.Series["Serie1"].Points.AddXY(x++, Voresliste);
+        }
+
         private void HovedGUI_Load(object sender, EventArgs e)
         {
 
@@ -34,11 +42,6 @@ namespace PresentationLayer
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-
-        }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -49,6 +52,7 @@ namespace PresentationLayer
         {
 
         }
+
     }
 
 }

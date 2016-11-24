@@ -8,6 +8,7 @@ namespace DTO
 {
     public class Data
     {
+        public List<double> BlodtrykList {get; set;}
 
     }
 }

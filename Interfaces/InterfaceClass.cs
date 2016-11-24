@@ -18,11 +18,11 @@ namespace Interfaces
 
     public interface DL
     {
-
+        List<double> CDIndlæsBlodtryk();
     }
 
     public interface BL
     {
-
+        Data CBIndlæsBlodtryk();
     }
 }

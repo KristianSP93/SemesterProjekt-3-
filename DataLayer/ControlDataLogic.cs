@@ -11,7 +11,12 @@ namespace DataLayer
 {
     public class ControlDataLogic : DL
     {
-
+        DAQData HentData;
+        public List<double> CDIndlæsBlodtryk()
+        {
+            HentData = new DAQData();
+            return HentData.DAQIndlæsTryk();
+        }
 
     }
 }
