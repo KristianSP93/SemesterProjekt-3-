@@ -8,12 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Interfaces;
+using System.Threading;
+using DTO;
 
 namespace PresentationLayer
 {
     public partial class HovedGUI : Form
     {
         private BL currentBL;
+        private Data CurrentDTO;
 
         public HovedGUI(BL myBL)
         {
@@ -29,6 +32,19 @@ namespace PresentationLayer
         private void HovedGUI_Load_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            double local = CurrentDTO.AFTryk;
+            textBox1.Text = Convert.ToString(local);
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 

@@ -18,12 +18,11 @@ namespace Interfaces
 
     public interface DL
     {
-        double HentAFTryk();
 
     }
 
     public interface BL
     {
-        Data AtmofæriskTryk();
+
     }
 }

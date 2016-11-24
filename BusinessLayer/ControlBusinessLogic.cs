@@ -5,27 +5,26 @@ using System.Text;
 using System.Threading.Tasks;
 using Interfaces;
 using DTO;
+using DataLayer;
+using System.Threading;
 
 namespace BusinessLayer
 {
     public class ControlBusinessLogic : BL
     {
-        private Data abc;
-        private DL currentDatalag;
+        private DL currentDal;
+
+        public ControlDataLogic currentDL = new ControlDataLogic();
+        public Data currentDTO = new Data();
 
 
-        public ControlBusinessLogic(DL mydal)
+        public ControlBusinessLogic(DL myDL)
         {
-            var abc = new Data();
-            this.currentDatalag = mydal;
+            currentDal = myDL;
         }
 
 
-        public Data AtmofæriskTryk()
-        {
-            abc.AFTryk = currentDatalag.HentAFTryk();
-            return abc;
-        }
+
 
 
     }

@@ -9,9 +9,5 @@ namespace DTO
     public class Data
     {
 
-
-        public double AFTryk { get; set; }
-
-
     }
 }
